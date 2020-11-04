@@ -1,0 +1,25 @@
+{
+
+  "data" : 
+  [
+    {
+      "id" : 1,
+      "groupName" : "BLACKPINK GROBAL FAN GROUPS",
+      "groupIcon" : "GroupIconBlackPink"
+    },
+    
+    {
+      "id" : 2,
+      "groupName" : "TWICE GROBAL FAN GROUPS",
+      "groupIcon" : "GroupIconTwice"
+    },
+
+
+    {
+      "id" : 3,
+      "groupName" : "ITZY GROBAL FAN GROUPS",
+      "groupIcon" : "GroupIconItzy"
+
+    }
+  ]
+}

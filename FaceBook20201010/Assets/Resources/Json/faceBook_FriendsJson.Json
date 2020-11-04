@@ -1,0 +1,92 @@
+{
+
+  "data" : 
+  [
+    {
+       "id" : 1,
+       "userName" : "Naoki Hanzawa",
+       "iconImage" : "IconHanzawa",
+       "postingTimeText" : "1h・",
+       "postText" : "每个人都需要钱和梦想才能生活",
+       "postImage" : "PostHanzawa",
+       "stampButtonText" : "177K",
+       "postDetailText" : "1.5K Comments 2.5K Sheres",
+       "headerName" : "NAOKI HANZAWA's Post",
+       "shareText" : "15.5K Shares"
+    },
+    
+    {
+        "id" : 2 ,
+        "userName" : "Akira Owada",
+        "iconImage" : "IconOwada",
+        "postingTimeText" : "2h・",
+        "postText" : "If given, give back … give back!",
+        "postImage" : "PostOwada",
+        "stampButtonText" : "134K",
+        "postDetailText" : "1.1K Comments 1.2K Sheres",
+        "headerName" : "AKIRA OWADA's Post",
+        "shareText" : "11.3K Shares"
+
+    },
+
+
+    {
+      "id" : 3,
+      "userName" : "Ken Nakanowatari",
+      "iconImage" : "IconNakanowatari",
+      "postingTimeText" : "3h・",
+      "postText" : "고객 우선",
+      "postImage" : "PostNakanowatari",
+      "stampButtonText" : "136K",
+      "postDetailText" : "1.8K Comments 1.7K Sheres",
+      "headerName" : "KEN NAKANOWATARI's Post",
+      "shareText" : "16K Shares"
+
+
+    },
+    {
+      "id" : 4,
+      "userName" : "Youichiro Mikasa",
+      "iconImage" : "IconMikasa",
+      "postingTimeText" : "4h・",
+      "postText" : "Be careful when preparing to stab people,When you kill it, in an instant",
+      "postImage" : "PostMikasa",
+      "stampButtonText" : "144K",
+      "postDetailText" : "1.2K Comments 1.1K Sheres",
+      "headerName" : "YOUICHIRO MIKASA's Post",
+      "shareText" : "15K Shares"
+
+
+    },
+    {
+      "id" : 5,
+      "userName" : "Keiji Minobe",
+      "iconImage" : "IconMinobe",
+      "postingTimeText" : "5h・",
+      "postText" : "Achieving politics means not overlooking the little things",
+      "postImage" : "PostMinobe",
+      "stampButtonText" : "166K",
+      "postDetailText" : "1.7K Comments 1.9K Sheres",
+      "headerName" : "KEIJI MINOBE's Post",
+      "shareText" : "14K Shares"
+    },
+
+    {
+      "id" : 6,
+      "userName" : "Syunichi Kurosaki",
+      "iconImage" : "IconKurosaki",
+      "postingTimeText" : "6h・",
+      "postText" : "Check out the Ise-Shima State.",
+      "postImage" : "PostKurosaki",
+      "stampButtonText" : "122K",
+      "postDetailText" : "1.2K Comments 1.3K Sheres",
+      "headerName" : "SHUNICHI KUROSAKI's Post",
+      "shareText" : "11K Shares"
+    }
+    
+
+  
+    
+    
+  ]
+}
